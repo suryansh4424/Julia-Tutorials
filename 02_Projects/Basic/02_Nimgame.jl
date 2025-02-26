@@ -14,7 +14,7 @@ function nimgame()
             permitted = collect(1:min(3, tokencount))
             println("\nOf the remaining $tokencount tokens,")
             print("how many do you take ($permitted)?")
-            takenum = parse(Int, readline())
+            takenum = parse(Int, readline()) 
             if takenum in permitted
                 break
             end
