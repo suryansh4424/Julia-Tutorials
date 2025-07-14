@@ -28,3 +28,4 @@ function nimgame()
         end
     end
 end
+
