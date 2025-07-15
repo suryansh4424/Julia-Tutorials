@@ -29,3 +29,4 @@ function magic8ball()
         println("\n", rand(responses), "\n")
     end
 end
+
