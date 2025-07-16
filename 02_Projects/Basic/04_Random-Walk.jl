@@ -27,3 +27,4 @@ function randomwalkplots(walkers::Integer, steps::Integer)
 end
 
 
+
